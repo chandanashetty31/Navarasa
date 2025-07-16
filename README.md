@@ -21,5 +21,6 @@ A fun and educational React app that explores the **Navarasa** — the nine fund
   2. Install dependencies <br>
   - npm install  <br>
   3. Run the app <br>
+    <br>
     npm start  <br>
     Open http://localhost:3000 in your browser.
