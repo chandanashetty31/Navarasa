@@ -18,8 +18,8 @@ A fun and educational React app that explores the **Navarasa** — the nine fund
 
   - git clone https://github.com/yourusername/navarasa-dictionary.git <br>
   - cd navarasa-dictionary
-  - Install dependencies <br>
+  2. Install dependencies <br>
     npm install  <br>
-  - Run the app <br>
+  3.Run the app <br>
     npm start  <br>
     Open http://localhost:3000 in your browser.
